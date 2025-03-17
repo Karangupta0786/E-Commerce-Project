@@ -76,7 +76,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="by Karan Gupta"
+        android:text="by Sachin Yadav"
         android:textSize="21sp"
         android:textColor="@color/black"
         android:layout_marginEnd="-19dp"

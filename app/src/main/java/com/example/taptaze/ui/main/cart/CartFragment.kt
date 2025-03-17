@@ -86,7 +86,7 @@ class CartFragment : Fragment(R.layout.fragment_cart), CartAdapter.CartListener,
 
         try {
             val options = JSONObject()
-            options.put("name","Karan Gupta Coder")
+            options.put("name","Sachin Yadav Coder")
             options.put("description","Demoing Charges")
             //You can omit the image option to fetch the image from the dashboard
             options.put("image","https://s3.amazonaws.com/rzp-mobile/images/rzp.jpg")
